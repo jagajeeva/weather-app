@@ -1,10 +1,6 @@
 # Weather App
 
-A simple Weather Forecast Application built using Python and Tkinter.
-
-## Screenshot
-
-![Weather App](weather-app-screenshot.png)
+A simple Weather Forecast Application built using Python and Tkinter
 
 ## Features
 
