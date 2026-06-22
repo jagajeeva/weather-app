@@ -6,7 +6,7 @@ import ssl
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY = "5217642c0fe332085d61333861d8a5b8"
+API_KEY = "YOUR_API_KEY"
 
 def get_weather():
     city = city_entry.get().strip()

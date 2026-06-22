@@ -3,7 +3,7 @@ import urllib.request
 import urllib.error
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
-API_KEY = "b778e1a78f697ef2dca2939f8df5675b"
+API_KEY = "YOUR_API_KEY"
 
 city = input("Enter city name: ")
 
